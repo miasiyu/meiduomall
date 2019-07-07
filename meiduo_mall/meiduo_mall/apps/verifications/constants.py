@@ -1,0 +1,5 @@
+#1,短信验证码的有效期
+REDIS_SMS_CODE_EXPIRES = 300
+
+#2,图片验证码有效期
+REDIS_IMAGE_CODE_EXPIRES = 300
